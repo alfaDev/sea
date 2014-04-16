@@ -1,4 +1,4 @@
-durak
+sea
 =====
 
 Card game of sea
